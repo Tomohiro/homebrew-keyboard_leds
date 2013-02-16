@@ -1,4 +1,4 @@
-Homebrew-keyboard-leds
+Homebrew-keyboard_leds
 ================================================================================
 
 This repository contains the `keyboard_leds` as formula for [Homebrew](https://github.com/mxcl/homebrew).
