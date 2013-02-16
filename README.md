@@ -13,13 +13,13 @@ Getting Started
 
 Use the Homebrew `tap`
 
-    $ brew tap Tomohiro/keyboard-leds
+    $ brew tap Tomohiro/keyboard_leds
     $ brew install keyboard-leds
 
 
 Or, you can also install via URL:
 
-    $ brew install https://raw.github.com/Tomohiro/Homebrew-keyboard-leds/master/keyboard-leds.rb
+    $ brew install https://raw.github.com/Tomohiro/Homebrew-keyboard_leds/master/keyboard-leds.rb
 
 
 ### Run
