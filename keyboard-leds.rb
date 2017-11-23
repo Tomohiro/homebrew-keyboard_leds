@@ -3,7 +3,7 @@ require 'formula'
 class KeyboardLeds < Formula
   homepage 'http://googlemac.blogspot.jp/2008/04/manipulating-keyboard-leds-through.html'
   url 'http://osxbook.com/book/bonus/chapter10/kbdleds/download/keyboard_leds.c'
-  sha1 '6158238f4bb5b6bd3a16e7070fcd35cd41423407'
+  sha256 '6c7a87783501bdeaa4f44166d0bfeb0f9bb62824dedb1f5656ef6fc33c27bdaf'
   version '0.1'
 
   def install
